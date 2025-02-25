@@ -1,2 +1,2 @@
 # User-Cold-Start-Recommendation-System-Based-on-Hofstede-Cultural-Theory
-https://www.kaggle.com/datasets/nordllichterrr/train-dataset-data2
+https://drive.google.com/drive/folders/1vgf2UDhPx7jzHy5oi1EjPjRMe0ypSTl3?usp=drive_link
