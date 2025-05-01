@@ -1,4 +1,4 @@
-# User-Cold-Start-Recommendation-System-Based-on-Hofstede-Cultural-Theory
+# Алгоритм рекомендательной системы с учетом культурных признаков для решения проблемы холодного старта
 Ссылки на файлы с датасетами, которые не прошли ограничения по размеру
 https://drive.google.com/drive/folders/1vgf2UDhPx7jzHy5oi1EjPjRMe0ypSTl3?usp=drive_link
 https://drive.google.com/drive/folders/1sEVnHcdtrt9o3WczZN-SCBw7VkGk93-R?usp=drive_link
